@@ -14,11 +14,11 @@
                   <div class="row" style="padding:10px">
                     <div class='col-md-6'>
                       <form action="" method="post">
-
+<!-- 
                         <div class='form-group'>
                           <label>Id Barang</label>
                           <input type="text" name='nama' class='form-control'>
-                        </div>
+                        </div> -->
                         <div class='form-group'>
                           <label>Nama Barang</label>
                           <input type="text" name='harga' class='form-control'>
