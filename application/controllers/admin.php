@@ -17,6 +17,13 @@ class admin extends CI_Controller{
       $this->load->view('admin/kelola_barang');
       $this->load->view('admin/template/footer');
   }
+
+  public function dataCustomer(){
+      $this->load->view('admin/template/header');
+      $this->load->view('admin/data_customer');
+      $this->load->view('admin/template/footer');
+  }
+
 }
 
 ?>
