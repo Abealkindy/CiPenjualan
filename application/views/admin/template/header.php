@@ -46,6 +46,11 @@
             <li class="nav-item">
               <a href="<?= base_url('admin/kelola-kategori') ?>" class="nav-link"><i class="link-icon icon-screen-desktop"></i><span class="menu-title">Kelola Kategori</span></a>
             </li>
+
+            <li class="nav-item">
+              <a href="<?= base_url('admin/kelola-customer') ?>" class="nav-link"><i class="link-icon icon-screen-desktop"></i><span class="menu-title">Customer</span></a>
+            </li>
+
             <li class="nav-item">
               <a href="<?= base_url('logout') ?>" class="nav-link"><i class="link-icon  icon-power"></i><span class="menu-title">Keluar</span></a>
             </li>

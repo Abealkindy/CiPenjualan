@@ -41,6 +41,15 @@ class admin extends CI_Controller{
     redirect('admin/kelola-kategori');
   }
 
+<<<<<<< HEAD
+=======
+  public function dataCustomer(){
+      $this->load->view('admin/template/header');
+      $this->load->view('admin/data_customer');
+      $this->load->view('admin/template/footer');
+  }
+
+>>>>>>> 3c3248bab670d72b706e92d7b8420471254e5a83
 }
 
 ?>
